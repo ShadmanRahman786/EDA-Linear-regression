@@ -24,6 +24,13 @@ In this project, I explored an astronomical dataset, utilizing **Pandas** for da
 
 Libraries utilized: `pandas`, `matplotlib`, `seaborn`
 
+<img width="493" alt="Screenshot 2025-04-24 at 2 37 15 AM" src="https://github.com/user-attachments/assets/a7e64635-e2d2-41de-8b41-58b4f2ff351f" />
+<img width="506" alt="Screenshot 2025-04-24 at 2 37 40 AM" src="https://github.com/user-attachments/assets/b947a012-d17a-441a-8b28-d75b91f5a2ae" />
+<img width="1367" alt="Screenshot 2025-04-24 at 2 38 01 AM" src="https://github.com/user-attachments/assets/014fca8f-2b3a-4cb0-a0b2-0d571fc8cf0c" />
+
+
+
+
 ---
 
 ## Dataset 2: Market Dataset (Kaggle)
