@@ -1,4 +1,4 @@
-# ** My Pandas Learning Journey ** 
+# **My Pandas Learning Journey** 
 ### Exploring the Fundamentals of Data Science with Pandas, Matplotlib, Seaborn, and Linear Regression
 
 ---
