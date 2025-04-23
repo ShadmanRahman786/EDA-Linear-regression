@@ -53,7 +53,7 @@ Environment: Jupyter Notebook, VS Code
 2. Install dependencies: pip install pandas matplotlib seaborn scikit-learn
 3. Open Jupyter notebook and run the file
 
-## COntact Info:
+## Contact Info:
 
 If you have any inquiries or wish to get in touch, please feel free to refer to my contact details available on my GitHub profile. I welcome any feedback, suggestions, or collaboration opportunities.
 
