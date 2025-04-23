@@ -43,7 +43,7 @@ This project focused on applying **linear regression** to a market dataset. Key 
 
 The following tools and technologies were used throughout the project:
 
-## bash
+bash
 Languages: Python
 Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
 Environment: Jupyter Notebook, VS Code
