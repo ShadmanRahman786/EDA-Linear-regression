@@ -56,7 +56,7 @@ Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
 Environment: Jupyter Notebook, VS Code
 
 ## Installation Instructions:
-1. Clone the repository: git clone https://github.com/ShadmanRahman786/EDA-Linear-regression.git
+1. Clone the repository: git clone gh repo clone ShadmanRahman786/EDA-Linear-regression
 2. Install dependencies: pip install pandas matplotlib seaborn scikit-learn
 3. Open Jupyter notebook and run the file
 
